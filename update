@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /mnt/mastermind/*/pirates/residential/pws.txt >> ~/wordlist/wpa_pass.txt
